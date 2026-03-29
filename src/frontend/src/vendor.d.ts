@@ -1,0 +1,9 @@
+declare module "pdfjs-dist";
+declare module "pdfjs-dist/build/pdf.worker.min.mjs";
+declare module "tesseract.js";
+declare module "file-saver";
+declare module "pdf-lib";
+declare module "jszip";
+declare module "docx";
+declare module "xlsx";
+declare module "pptxgenjs";
